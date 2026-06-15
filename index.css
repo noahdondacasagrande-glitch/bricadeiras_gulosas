@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #383636;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    flex-direction: column;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: 25px;
+    margin: 30px;
+    color: rgb(65, 64, 64);
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    color: white;
+}
